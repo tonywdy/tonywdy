@@ -1,4 +1,3 @@
-<script src='https://api.vvhan.com/api/meihua'></script>
 <!-- 动态打字效果 -->
 <h1 align="center">
   <a href="https://kwblog.vercel.app/">
