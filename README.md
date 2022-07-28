@@ -12,3 +12,5 @@
 ![Visitor Count](https://profile-counter.glitch.me/tonywdy/count.svg)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tonywdy)](https://github.com/tonywdy)
+
+![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=tonywdy&show_icons=true&theme=tokyonight)
