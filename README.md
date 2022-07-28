@@ -9,8 +9,11 @@
 <div align="center" ><img order-radius="100px" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300019556.gif"/></div>
 <br>
 
-![Visitor Count](https://profile-counter.glitch.me/tonywdy/count.svg)
+<div align="center" ><img order-radius="100px" src="https://profile-counter.glitch.me/tonywdy/count.svg"/></div>
+<br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tonywdy)](https://github.com/tonywdy)
+<div align="center" ><img order-radius="100px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonywdy"/></div>
+<br>
 
-![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=tonywdy&show_icons=true&theme=tokyonight)
+<div align="center" ><img order-radius="100px" src="https://github-readme-stats.vercel.app/api?username=tonywdy&show_icons=true&theme=tokyonight"/></div>
+<br>
